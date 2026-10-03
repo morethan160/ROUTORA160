@@ -1,5 +1,5 @@
 // Paste your Supabase values between the quotes, then save (commit) this file.
 window.SB_CFG={
-  url:"PASTE_PROJECT_URL_HERE",
-  key:"PASTE_PUBLIC_ANON_KEY_HERE"
+  url:"https://lxpcgasxwcoaiwjtlzdx.supabase.co",
+  key:"sb_publishable_4cZMjXdHuF7qjaNSGBZOyQ_Q6UqEF0Q"
 };
